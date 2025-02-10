@@ -14,8 +14,7 @@ Accessed 2/10/2025
 
 ## Wild strawberries
 `inaturalist_wild_strawberry_observations.geojson`
-GBIF.org
-Accessed 2/10/2025
-Filtered to MA only
-[GBIF.org](https://www.gbif.org/species/3029779)
-[Wild strawberry Felt map](https://www.gbif.org/species/3029779)
+- Accessed 2/10/2025
+- Filtered to MA only
+- [GBIF.org](https://www.gbif.org/species/3029779)
+- [Wild strawberry Felt map](https://www.gbif.org/species/3029779)

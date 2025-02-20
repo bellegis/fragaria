@@ -1,3 +1,8 @@
+*edit 2/20/2025* This project has been moved to OSF. The most up-to-date data and details can be found at [https://osf.io/rm65a/](https://osf.io/rm65a/).
+
+
+*Archived project notes below*
+
 ## Crops
 `strawberries_county_2022.geojson`
 - Massachusetts Agricultural Census 2022
